@@ -1,2 +1,24 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Force Unix newlines for these file types
+*.go text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf
+
+# Force no end of line conversion for images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Denote all files that are truly binary and should not be modified.
+*.pdf binary
+*.exe binary 
+*.dll binary
+*.lib binary
+
+# Output git information for debugging 
+*.go export-ignore
+*.md export-ignore
