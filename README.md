@@ -7,7 +7,17 @@ Where each day is a new topic or subsection of a topic with a milestone towards 
 ## Directory Structure
 ```bash
 ├── 00
+│   └── ToKnow.md
+├── 01
 │   └── hello.go
+├── 02
+│   ├── values.go
+│   └── variables.go
+├── challenges
+│   ├── c01
+│   │   └── meals.go
+│   ├── c02
+│   │   └── apis.go
 ```
 **NOTE**: Directory structure is subject to change.
 
