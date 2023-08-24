@@ -13,6 +13,10 @@ Where each day is a new topic or subsection of a topic with a milestone towards 
 ├── 02
 │   ├── values.go
 │   └── variables.go
+├── 03
+│   └── constants.go
+├── 04
+
 ├── challenges
 │   ├── c01
 │   │   └── meals.go
