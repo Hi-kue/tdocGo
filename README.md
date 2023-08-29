@@ -17,12 +17,18 @@ Where each day is a new topic or subsection of a topic with a milestone towards 
 │   └── constants.go
 ├── 04
 │   └── for.go
+├── 05
+│   └── loops.go
 │
 ├── challenges
 │   ├── c01
 │   │   └── meals.go
 │   ├── c02
 │   │   └── apis.go
+│ 
+├── random
+│   ├── crawler.exe
+│   ├── crawler.go
 ```
 **NOTE**: Directory structure is subject to change.
 
