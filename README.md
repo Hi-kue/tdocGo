@@ -18,7 +18,7 @@ Where each day is a new topic or subsection of a topic with a milestone towards 
 ├── 04
 │   └── for.go
 ├── 05
-│   └── loops.go
+│   └── ifelse.go
 │
 ├── challenges
 │   ├── c01
@@ -37,3 +37,9 @@ Where each day is a new topic or subsection of a topic with a milestone towards 
 
 - [Go by Example](https://gobyexample.com)
 - [Go Programming - Golang Course w/Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo&ab_channel=freeCodeCamp.org)
+
+## TODOs
+
+- [ ] Complete todoApp Project under `challenges` directory
+- [ ] Complete crawler Project under `random` directory
+- [ ] Complete any TUI projects under `challenges\tui` directory
